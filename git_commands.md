@@ -59,3 +59,8 @@ git branch <имя>
 ```sh
 git branch -d <название_ветки>
 ```
+
+### Структура веток
+```sh
+git log --oneline --graph
+```
