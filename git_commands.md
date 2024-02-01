@@ -39,3 +39,8 @@ git log --oneline
 ```sh
 git checkout master
 ```
+
+### Просмотр веток
+```sh
+git branch
+```
