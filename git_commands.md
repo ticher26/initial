@@ -35,11 +35,6 @@ git checkout номер фиксации
 git log --oneline
 ```
 
-### Возвращение к самым последним изменениям
-```sh
-git checkout master
-```
-
 ### Просмотр веток
 ```sh
 git branch
@@ -47,5 +42,10 @@ git branch
 
 ### Переход с одной ветки на другую
 ```sh
-git checkout название ветки
+git checkout <название ветки>
+```
+
+### Изменения между фиксациями
+```sh
+git diff
 ```
