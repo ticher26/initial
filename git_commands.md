@@ -44,3 +44,8 @@ git checkout master
 ```sh
 git branch
 ```
+
+### Переход с одной ветки на другую
+```sh
+git checkout название ветки
+```
