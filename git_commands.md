@@ -35,10 +35,9 @@ git checkout номер фиксации
 git log --oneline
 ```
 
-### Возвращение к самым последним изменениям
+### Возвращение к ветке мастер
 ```sh
-git checkout master
-```
+git checkout master 
 
 ### Просмотр веток
 ```sh
