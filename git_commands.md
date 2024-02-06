@@ -69,3 +69,8 @@ git log --oneline --graph
 ```sh
 git push
 ```
+
+### Обновили локальный репозиторий
+```sh
+git pull
+```
